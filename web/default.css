@@ -1,0 +1,72 @@
+img { display: block}
+a img { border: 0}
+.clear {clear: both; overflow: hidden; width: 1px; height: 1px; line-height: 1px; font-size: 1px;}
+.block {display: block}
+
+body
+{	padding: 0;
+	margin: 20px 80px 0 120px;
+	background: #FFF;
+	font: 1.0em trebuchet ms, georgia, arial, sans-serif}
+
+h1, h2, h3, h4
+{	color: #2577B1}
+
+h1
+{	font-size: 1.7em;
+	font-weight: normal}
+
+h2
+{	font-size: 1.2em;
+	font-weight: normal}
+
+p
+{	font-size: 0.8em;
+	padding: 0;
+	margin: 5px 0 17px 0}
+
+a
+{	color: #38649C}
+
+.hdr
+{	font: bold 0.9em trebuchet ms, georgia, arial, sans-serif;
+	margin: 0 0 0 20px;
+	padding: 0;
+	float: left;
+	width: 200px;}
+
+ul
+{	font-size: 0.8em;}
+
+ul.samples
+{	float: left;
+	width: 200px;
+	margin: 0 0 0 20px;
+	padding: 0}
+
+	ul.samples li
+	{	margin: 0 0 0 30px;
+		padding: 0}
+
+
+.special
+{	color: #6A8135}
+
+.comment
+{	color: #687684}
+
+pre
+{	width:99%;background: #F1F8F1;
+	border: 1px solid #9FAFB1;
+	font: 12px lucida console, courier;
+	overflow: auto}
+
+pre code
+{	display: block;
+	padding: 10px}
+
+#copyright
+{	border-top: 1px solid #2577B1;
+	background: #ABC9DE;
+	margin: 0px;
+	padding: 10px}
